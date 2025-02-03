@@ -38,14 +38,8 @@ This module delves into how seismic waves behave as they travel through Mars' in
 ### Module 6: Conclusion and Further Insights
 In this module, we summarize the findings of the project and outline future directions. We discuss how more sophisticated models and additional seismic data could refine our understanding of Mars' core.
 
-### Module 7: Radius Prediction
-This module focuses on predicting the core radius of Mars using advanced machine learning algorithms. By analyzing seismic data and other planetary parameters, the model can estimate the core radius more accurately, helping to resolve discrepancies between theoretical calculations and observed data.
-
-### Module 8: Anomaly Detection
-In this module, we implement anomaly detection techniques to identify unusual seismic activity within Mars' interior. By applying statistical models and machine learning algorithms, the system can automatically flag potential anomalies in seismic data, which may indicate unusual core activity or structural changes.
-
-### Module 9: PINN Implementation
-The final module implements Physics-Informed Neural Networks (PINNs) to model the behavior of seismic waves in Mars' core and mantle. By incorporating physical laws directly into the neural network architecture, we aim to predict core properties and seismic wave patterns with high accuracy, even in the presence of limited data.
+### Module 7,8,9
+To be implemented
 
 ## Setup Instructions
 
