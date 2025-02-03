@@ -1,7 +1,5 @@
 # Martian-Core-Analysis-Kriti-Dhansiri
 
-# Seismic Signal Analysis and Shadow Zone Classification
-
 ## Overview
 This project focuses on analyzing seismic signals and classifying shadow zones using machine learning techniques. The goal is to extract meaningful features from seismic waveforms, including amplitude, frequency, and phase characteristics, to identify shadow zones. The methodology involves feature extraction, data preprocessing, and classification using machine learning models like Random Forest.
 
