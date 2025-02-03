@@ -9,7 +9,7 @@ The Martian Core Project is divided into several key modules that cover differen
 - **Module 1**: Introduction to Seismic Signal Analysis
 - **Module 2**: Feature Extraction and Seismic Wave Processing
 - **Module 3**: Seismic Data Preprocessing and Noise Removal
-- **Module 4**: Core Radius Calculation of Mars
+- **Module 4**: Core Radius Calculation
 - **Module 5**: Seismic Wave Behavior and Analysis
 - **Module 6**: Conclusion and Further Insights
 - **Module 7**: Radius Prediction
@@ -29,29 +29,14 @@ We describe the feature extraction techniques used to analyze seismic waveforms,
 ### Module 3: Seismic Data Preprocessing and Noise Removal
 The preprocessing of seismic data plays a vital role in cleaning up raw measurements. In this module, we detail the steps to remove noise from seismic signals, ensuring that the data used for analysis is reliable and accurate.
 
-### Module 4: Core Radius Calculation of Mars
-This module explains the calculation of Mars' core radius using theoretical models and compares it with observed values from seismic data. The core radius is estimated using the formula \( R_c = R - d \), where \( R \) is the total radius of Mars, and \( d \) is the depth of the core-mantle boundary.
-
-#### Seismic Data Observations
-Mars seismic data, particularly from the InSight lander, has provided an estimate of the core radius at approximately 1830 km, while the theoretical model gives a radius of 2830 km.
-
-#### Discrepancy Between Calculated and Observed Core Radius
-The calculated core radius is significantly larger than the observed value. Possible reasons for this discrepancy include:
-
-- Simplified model assumptions.
-- The composition and structure of the core.
-- Seismic wave propagation characteristics.
-- Potential errors in the theoretical model.
-- Planetary evolution factors.
-
-#### Conclusion
-The calculated core radius of 2830 km is inconsistent with seismic data that estimates it to be 1830 km. This discrepancy highlights the complexity of Mars' core structure and the limitations of simple models. Advanced modeling incorporating seismic wave velocities and material composition is required for more accurate estimates.
+### Module 4: Core Radius Calculation
+This module covers the calculation of Mars' core radius based on the given total radius and core-mantle boundary depth. The core radius is estimated using the formula \( R_c = R - d \), where \( R \) is the total radius of Mars, and \( d \) is the depth of the core-mantle boundary.
 
 ### Module 5: Seismic Wave Behavior and Analysis
 This module delves into how seismic waves behave as they travel through Mars' interior. We analyze how P-waves and S-waves interact with different layers, helping to determine the composition and depth of the core-mantle boundary.
 
 ### Module 6: Conclusion and Further Insights
-In the final module, we summarize the findings of the project and outline future directions. We discuss how more sophisticated models and additional seismic data could refine our understanding of Mars' core.
+In this module, we summarize the findings of the project and outline future directions. We discuss how more sophisticated models and additional seismic data could refine our understanding of Mars' core.
 
 ### Module 7: Radius Prediction
 This module focuses on predicting the core radius of Mars using advanced machine learning algorithms. By analyzing seismic data and other planetary parameters, the model can estimate the core radius more accurately, helping to resolve discrepancies between theoretical calculations and observed data.
