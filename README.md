@@ -38,7 +38,7 @@ This module delves into how seismic waves behave as they travel through Mars' in
 ### Module 6: Conclusion and Further Insights
 In this module, we summarize the findings of the project and outline future directions. We discuss how more sophisticated models and additional seismic data could refine our understanding of Mars' core.
 
-### Module 7,8,9
+### Module 7,8,9:
 To be implemented
 
 ## Setup Instructions
